@@ -1,4 +1,4 @@
-local gui = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/z4gs/scripts/master/testtttt.lua"))():AddWindow("Skibidi Ghoul", {
+local gui = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/z4gs/scripts/master/testtttt.lua"))():AddWindow("Truly a Ghoul", {
     main_color = Color3.fromRGB(24,24,24),
     min_size = Vector2.new(390, 360),
     can_resize = false
